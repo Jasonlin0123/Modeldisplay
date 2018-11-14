@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scences/scences1.unity
+- path: Assets/scences/scences2.unity
   isLoaded: 1
   isActive: 1

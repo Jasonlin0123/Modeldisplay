@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\scripts\changescene.cs" />
+    <Compile Include="Assets\scripts\exit.cs" />
     <Compile Include="Assets\scripts\Gamemanger.cs" />
     <Compile Include="Assets\scripts\handler.cs" />
     <Compile Include="Assets\Simple UI\Samples\IconPreview.cs" />
